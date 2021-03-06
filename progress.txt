@@ -1,3 +1,5 @@
 - Try to merge various gameset into one file
 - Make one file csv that contains all matches
 - Find result for games at Multi-Event Games
+
+- Succes to made one-file for MD18 and 19, try to do at all event
