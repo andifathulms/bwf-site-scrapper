@@ -1,0 +1,3 @@
+- Try to merge various gameset into one file
+- Make one file csv that contains all matches
+- Find result for games at Multi-Event Games
